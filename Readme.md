@@ -13,3 +13,11 @@
     <b> ᴠɪsɪᴛᴏʀs </b><br>
      <img align="middle" src="https://profile-counter.glitch.me/flashuserbot/count.svg" />
 </p>
+
+## 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒
+
+<li><span style="color: #0074D9;">ᴀᴘɪ ɪᴅ</span></li>
+<li><span style="color: #0074D9;">ᴀᴘɪ ʜᴀsʜ</span></li>
+<li><span style="color: #0074D9;">ᴏᴡɴᴇʀ ɪᴅ</span></li>
+<li><span style="color: #0074D9;">sᴛʀɪɴɢ sᴇssɪᴏɴ</span></li>
+<li><span style="color: #0074D9;">ʜᴇʀᴏᴋᴜ ᴀᴘɪ ᴋᴇʏ</span></li>
