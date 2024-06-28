@@ -27,3 +27,9 @@
 ## ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/itzunique7/flashuserbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
+
+[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ]
+(https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/II_DHIRAJ_II)
+
