@@ -30,6 +30,6 @@
 
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
 
-[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ]
-(https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/II_DHIRAJ_II)
+
+[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/II_DHIRAJ_II)
 
