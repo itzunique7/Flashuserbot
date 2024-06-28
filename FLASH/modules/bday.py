@@ -24,7 +24,7 @@ import asyncio
 from random import choice
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from STORMDB.data import STORMS, BDAY
+from FLASHDB.data import STORMS, BDAY
 from config import SUDO_USERS, OWNER_ID
 
 @Client.on_message(
