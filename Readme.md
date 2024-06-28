@@ -11,5 +11,5 @@
 </p>
 <p align="center">
     <b> ᴠɪsɪᴛᴏʀs </b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/flashuserbot/count.svg" />
+     <img align="middle" src="https://profile-counter.glitch.me/flashuserbot/count.svg" />
 </p>
