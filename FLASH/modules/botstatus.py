@@ -28,17 +28,17 @@ from config import SUDO_USERS
 )
 async def bstats(client, message):
     msg = f"""
-    ** ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ **
+    ** ғʟᴀsʜ ᴜꜱᴇʀʙᴏᴛ **
 
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Kᴜɴᴀʟ࿐](https://t.me/kexx_xd)**
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[ᴅʜɪʀᴀᴊ](https://t.me/II_DHIRAJ_II)**
     • **ᴠᴇʀꜱɪᴏɴ** » **2.1.1**
     • **ᴛᴏᴛᴀʟ ᴍᴏᴅᴜʟᴇꜱ** » **107+**
     • **ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ** » **134+**  
     • **ʙʀᴀɴᴄʜ** » **2.1.1@main**
-    • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ꜱᴛᴏʀᴍ-ᴜꜱᴇʀʙᴏᴛ](https://github.com/VARC9210/STORM-USERBOT)**
-    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ](https://t.me/STORM_CHATZ)**
-    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[ꜱᴛᴏʀᴍ ᴛᴇᴄʜ](https://t.me/STORM_TECHH)**    
+    • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ғʟᴀsʜ-ᴜꜱᴇʀʙᴏᴛ](https://github.com/itzunique7/FLASHUSERBOT)**
+    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[ғʟᴀsʜ ᴄʜᴀᴛᴢ](https://t.me/FLASH_CHATZ)**
+    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[ғʟᴀsʜ ᴛᴇᴄʜ](https://t.me/FLASH_TECHH)**    
     
-    **ʙʏ @kexx_xd**
+    **ʙʏ @II_DHIRAJ_II**
     """
     await message.reply(msg)
