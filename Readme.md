@@ -37,6 +37,19 @@
   <a href="https://t.me/Flash_chatz">
     <img src="https://img.shields.io/badge/SUPPORT-GROUP-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
-<a href="https://t.me/Flash_chatz">
+<a href="https://t.me/Flash_techh">
     <img src="https://img.shields.io/badge/SUPPORT-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
+
+
+
+
+
+
+
+
+
+## 𝐂𝐑𝐄𝐃𝐈𝐓-
+<a href="https://githu.com/varc9210/storm-userbot">
+<img src="https://img.shields.io/badge/STORM-black?style=for-the-badge&logo=github" alt="Github Badge"/>
+</a>
