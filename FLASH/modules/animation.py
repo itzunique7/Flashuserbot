@@ -46,7 +46,7 @@ from pyrogram.types import Message
 from config import CMD_HANDLER
 from config import SUDO_USERS
 from FLASH.helpers.basic import edit_or_reply, get_text
-from X.helpers.constants import MEMES
+from FLASH.helpers.constants import MEMES
 
 from .help import *
 
@@ -323,7 +323,7 @@ async def gahah(client: Client, message: Message):
         "------------------>",
         "------>;(^。^)ノ",
         "(￣ー￣) DEAD",
-        "**Mrr Gya Matherchod lala la 😈.😈.😈.😈.😈.😈.😈......**\n '#Sad_Reacts_Online'\n",
+        "**Mrr Gya Matherchod  😈.😈.😈.😈.😈.😈.😈......**\n '#Sad_Reacts_Online'\n",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
@@ -566,7 +566,7 @@ async def ngefuck(client: Client, message: Message):
 
 #@Client.on_message(filters.command("hack", cmd) & filters.me)
 @Client.on_message(
-    filters.command(["hack"], ".") & (filters.me | filters.user(SUDO_USERS))
+    filters.command(["whack"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
 async def hak(client: Client, message: Message):
     await message.edit_text("Looking for WhatsApp databases in targeted person...")
