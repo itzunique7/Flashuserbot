@@ -1,0 +1,90 @@
+{
+    "name": "ꜱ ᴛ ᴏ ʀ ᴍ | 🥀",
+    "logo": "https://graph.org/file/7538e9f28bef5419e7fa7.jpg",
+    "keywords": [
+      "telegram",
+      "bot",
+      "Storm"
+    ],
+      "buildpacks": [{
+      "url": "heroku/python"
+    }],
+    "env": {
+        "SESSION": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": true
+        },
+        "SESSION2": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION3": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION4": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION5": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION6": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION7": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION8": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION9": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "SESSION10": {
+            "description": "ᴘʏʀᴏɢʀᴀᴍ ꜱᴇꜱꜱɪᴏɴ ʜᴇʀᴇ 🔻",
+            "required": false
+        },
+        "ALIVE_PIC": {
+            "description": "ꜰɪʟʟ ᴛᴏ ᴄᴜꜱᴛᴏᴍɪᴢᴇ ᴀʟɪᴠᴇ ᴘɪᴄ 🕊️",
+            "required": false
+        },
+        "HELP_PIC": {
+            "description": "ꜰɪʟʟ ᴛᴏ ᴄᴜꜱᴛᴏᴍɪᴢᴇ ʜᴇʟᴘ ᴍᴇɴᴜ ᴘɪᴄ 🔥",
+            "required": false
+        },        
+        "SUDO_USERS": {
+            "description": "ꜱᴜᴅᴏᴜꜱᴇʀ ɪᴅ ❤️",
+            "required": false
+        },
+        "API_ID": {
+            "description": "ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ɪᴅ 🪪",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ʜᴀꜱʜ 🪪",
+            "required": true
+        },
+        "OWNER_ID": {
+            "required": true
+        },        
+        "OPENAIKEY": {
+            "description": "ᴛᴏ ᴜꜱᴇ ᴀɪ ʟᴏᴀᴅᴇᴅ ꜰᴇᴀᴛᴜʀᴇꜱ ɪɴ ᴜꜱᴇʀʙᴏᴛ 🤖",            
+            "required": false
+        },
+        "HEROKU_APP_NAME": {
+            "description": "ɪᴛ ɪꜱ ʀᴇQᴜɪʀᴇᴅ ᴛᴏ ᴀᴅᴅ ꜱᴜᴅᴏ ᴅɪʀᴇᴄᴛʟʏ ʙʏ ʙᴏᴛ ᴄᴍᴅ ✨",
+            "required": true
+        },
+        "HEROKU_API_KEY": {
+            "description": "ɪᴛ ɪꜱ ʀᴇQᴜɪʀᴇᴅ ᴛᴏ ᴀᴅᴅ ꜱᴜᴅᴏ ᴅɪʀᴇᴄᴛʟʏ ʙʏ ʙᴏᴛ ᴄᴍᴅ ✨",
+            "required": true
+        }
+    }
+  }
+  
