@@ -26,13 +26,13 @@ from STORMDB.data import STORMS
 API_ID = int(getenv("API_ID", "25981592"))
 API_HASH = getenv("API_HASH", "709f3c9d34d83873d3c7e76cdd75b866")
 SESSION1 = getenv("SESSION")
-ALIVE_PIC = getenv("ALIVE_PIC", "https://graph.org/file/5d4a2dbf4f196fcdfe4d2.mp4")
-HELP_PIC = getenv("HELP_PIC", "https://graph.org/file/e0fcedd2df8ac254bb506.jpg")
+ALIVE_PIC = getenv("ALIVE_PIC", "https://telegra.ph/file/e91c5cf1d7283053bfed4.mp4")
+HELP_PIC = getenv("HELP_PIC", "https://telegra.ph/file/434e18f50599e0b28480c.jpg")
 OWNER_ID = int(getenv("OWNER_ID", "6257927828"))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 OPENAIKEY = getenv("OPENAIKEY")
-PM_PIC = "https://graph.org/file/bf1fdd404a82d508a7ed5.jpg"
+PM_PIC = "https://telegra.ph/file/434e18f50599e0b28480c.jpg"
 SESSION2 = getenv("SESSION2")
 SESSION3 = getenv("SESSION3")
 SESSION4 = getenv("SESSION4")
