@@ -23,7 +23,7 @@
 import os
 from pyrogram import *
 from pyrogram.types import *
-from STORM.helper.basic import edit_or_reply, get_text, get_user
+from FLASH.helper.basic import edit_or_reply, get_text, get_user
 from config import SUDO_USERS
 
 OWNER = os.environ.get("OWNER", None)
