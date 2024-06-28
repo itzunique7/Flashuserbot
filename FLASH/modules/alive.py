@@ -27,13 +27,13 @@ from config import ALIVE_PIC, SUDO_USERS
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-KEX = f"""ㅤ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ ‌🪽
+KEX = f"""ㅤ ғʟᴀsʜ ᴜꜱᴇʀʙᴏᴛ ‌🪽
 ➖➖➖➖➖➖➖➖➖➖➖
 **• ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ** 🐍: `3.11.3`
-**• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `M2.1.1`
-**• ɢʀᴏᴜᴘ 💫: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🥀](https://t.me/STORM_CHATZ)**
-**• ᴄʜᴀɴɴᴇʟ ✨: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🥀](https://t.me/STORM_TECHH)**
-**• ꜱᴇɴꜱᴇɪ 🫂: [ꜱᴛᴏʀᴍ 🥀](https://t.me/kexx_XD)**
+**• ᴜꜱᴇʀʙᴏᴛ ᴠᴇʀꜱɪᴏɴ** ⚙️: `1.1`
+**• ɢʀᴏᴜᴘ 💫: [ғʟᴀsʜ ᴄʜᴀᴛᴢ 🥀](https://t.me/FLASH_CHATZ)**
+**• ᴄʜᴀɴɴᴇʟ ✨: [ғʟᴀsʜ ᴛᴇᴄʜ 🥀](https://t.me/FLASH_TECHH)**
+**• ꜱᴇɴꜱᴇɪ 🫂: [ғʟᴀsʜ 🥀](https://t.me/II_DHIRAJ_II)**
 ➖➖➖➖➖➖➖➖➖➖➖"""
 
 @Client.on_message(
