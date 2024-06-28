@@ -30,6 +30,13 @@
 
 ## 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
 
-
-[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/II_DHIRAJ_II)
-
+  <p align="center">
+  <a href="https://t.me/II_DHIRAJ_II">
+    <img src="https://img.shields.io/badge/Owner-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+  <a href="https://t.me/Flash_chatz">
+    <img src="https://img.shields.io/badge/SUPPORT-GROUP-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
+<a href="https://t.me/Flash_chatz">
+    <img src="https://img.shields.io/badge/SUPPORT-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
+  </a>
