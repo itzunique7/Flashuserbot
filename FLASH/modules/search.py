@@ -31,7 +31,7 @@ from pyrogram.types import Message
 from youtubesearchpython import SearchVideos
 from yt_dlp import YoutubeDL
 from config import SUDO_USERS
-from STORM.helper.basic import edit_or_reply
+from FLASH.helper.basic import edit_or_reply
 
 def get_text(message: Message) -> [None, str]:
     """ᴇxᴛʀᴀᴄᴛ ᴛᴇxᴛ ꜰʀᴏᴍ ᴄᴏᴍᴍᴀɴᴅꜱ"""
