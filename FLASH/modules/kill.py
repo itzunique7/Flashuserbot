@@ -1,3 +1,9 @@
+from pyrogram import Client, filters
+from pyrogram.types import Message
+from config import SUDO_USERS
+import asyncio
+hl = "."
+
 @Client.on_message(filters.command("kill", cmd) & filters.me)
 @Client.on_message(
     filters.command(["kill"], ".") & (filters.me | filters.user(SUDO_USERS))
