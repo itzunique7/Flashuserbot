@@ -22,7 +22,7 @@
 
 from pyrogram.types import Message
 import requests
-from STORM.powers import get_text
+from FLASH.powers import get_text
 from pyrogram import Client, filters
 from config import SUDO_USERS
 hl = "."
