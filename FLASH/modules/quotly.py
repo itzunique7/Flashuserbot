@@ -24,7 +24,7 @@ import asyncio
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from config import SUDO_USERS
-from STORM.powers import get_arg
+from FLASH.powers import get_arg
 hl = "."
 
 @Client.on_message(
