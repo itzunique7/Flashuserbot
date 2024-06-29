@@ -25,7 +25,7 @@ from pyrogram import *
 from pyrogram import filters
 from pyrogram.errors import YouBlockedUser
 from pyrogram.types import *
-from STORM.modules.profile import extract_user
+from FLASH.modules.profile import extract_user
 from config import SUDO_USERS
 
 @Client.on_message(
