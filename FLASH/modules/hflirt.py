@@ -26,7 +26,7 @@ from random import choice
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-from STORMDB.data import STORMS, HFLIRT
+from FLASHDB.data import STORMS, HFLIRT
 from config import OWNER_ID, SUDO_USERS
 
 @Client.on_message(
