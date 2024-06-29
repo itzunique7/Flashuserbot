@@ -42,9 +42,9 @@ from pyrogram.types import Message
 
 from config import CMD_HANDLER
 from config import SUDO_USERS
-from X.helpers.basic import edit_or_reply
-from X.helpers.PyroHelpers import ReplyCheck
-from X.utils import extract_user
+from FLASH.helpers.basic import edit_or_reply
+from FLASH.helpers.PyroHelpers import ReplyCheck
+from FLASH.utils import extract_user
 
 from .help import *
 
