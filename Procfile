@@ -1,1 +1,1 @@
-worker: python3 STORM.py
+worker: python3 FLASH.py
