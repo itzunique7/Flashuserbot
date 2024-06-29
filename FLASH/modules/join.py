@@ -21,7 +21,7 @@
 #SOFTWARE.
 
 from config import SUDO_USERS
-from STORMDB.data import GROUP
+from FLASHDB.data import GROUP
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
