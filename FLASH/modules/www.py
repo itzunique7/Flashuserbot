@@ -50,15 +50,15 @@ from pyrogram.raw import functions
 
 from config import CMD_HANDLER
 from config import BOT_VER, BRANCH as brch
-from X import CMD_HELP, StartTime
-from X.helpers.basic import edit_or_reply
-from X.helpers.constants import WWW
-from X import app 
-from X.helpers.PyroHelpers import SpeedConvert
+from FLASH import CMD_HELP, StartTime
+from FLASH.helpers.basic import edit_or_reply
+from FLASH.helpers.constants import WWW
+from FLASH import app 
+from FLASH.helpers.PyroHelpers import SpeedConvert
 from config import SUDO_USERS
-from X.utils.tools import get_readable_time
-from X.modules.bot.inline import get_readable_time
-from X.helpers.adminHelpers import DEVS
+from FLASH.utils.tools import get_readable_time
+from FLASH.modules.bot.inline import get_readable_time
+from FLASH.helpers.adminHelpers import DEVS
 
 from .help import *
 
