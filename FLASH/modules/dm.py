@@ -27,7 +27,7 @@ from random import choice
 from pyrogram import filters, Client
 from pyrogram.types import Message
 
-from STORMDB.data import RAID, STORMS
+from FLASHDB.data import RAID, STORMS
 from config import SUDO_USERS
 
 
