@@ -60,6 +60,10 @@
 <a href="https://githu.com/varc9210/storm-userbot">
 <img src="https://img.shields.io/badge/STORM-black?style=for-the-badge&logo=github" alt="Github Badge"/>
 </a>
+<br>
+<a href="https://github.com/Team-Japanese/Japanese-X-Userbot">
+<img src="https://img.shields.io/badge/JAPANESE-black?style=for-the-badge&logo=github" alt="Github Badge"/>
+</a>
 
 ## 𝐃𝐈𝐒𝐂𝐋𝐀𝐈𝐌𝐄𝐑
 
