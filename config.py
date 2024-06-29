@@ -42,6 +42,7 @@ SESSION7 = getenv("SESSION7")
 SESSION8 = getenv("SESSION8")
 SESSION9 = getenv("SESSION9")
 SESSION10 = getenv("SESSION10")
+CMD_HNDLR = cmd
 SUDOS = getenv("SUDO_USERS", None)
 SUDO_USERS = []
 if SUDOS:
