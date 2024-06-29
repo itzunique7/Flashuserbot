@@ -23,7 +23,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from telegraph import Telegraph, exceptions, upload_file
-from STORM.powers import *
+from FLASH.powers import *
 from config import SUDO_USERS
 
 hl = "."
