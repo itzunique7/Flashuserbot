@@ -23,8 +23,8 @@
 from pyrogram import Client, enums, filters
 from pyrogram.raw import functions
 from pyrogram.types import Message
-from STORM.Data.actions_store import commands
-from STORM.powers import ReplyCheck
+from FLASH.Data.actions_store import commands
+from FLASH.powers import ReplyCheck
 from asyncio import sleep
 hl = "."
 
