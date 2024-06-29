@@ -210,5 +210,5 @@ async def hack(client: Client, message: Message):
     )
     await asyncio.sleep(3)
     await e.edit(
-        "ꜱᴀᴅ ʙᴏᴛ ᴄʀᴀꜱʜᴇᴅ\nᴇʀʀᴏʀ:\n\nᴄᴏʟʟᴇᴄᴛᴇᴅ ᴅᴀᴛᴀ ꜱɪᴢᴇ ɪꜱ ᴍᴜᴄʜ ʟᴀʀɢᴇʀ ᴄᴀɴ'ᴛ ꜱᴇɴᴅ ᴅᴀᴛᴀ ꜰɪʟᴇ: "
+        "ᴛᴀʀɢᴇᴛ ᴠɪᴄᴛɪᴍ's ᴀᴄᴄᴏᴜɴᴛ ʜᴀᴄᴋᴇᴅ ᴀɴᴅ sᴀᴠᴇᴅ ʜɪs ɪɴғᴏ ɪɴ sᴀᴠᴇᴅ ᴍᴀssᴀɢᴇ....."
     )
