@@ -23,7 +23,7 @@
 from random import choice
 from pyrogram import Client, filters
 from pyrogram.types import Message
-from STORMDB.data import STORMS, SRAID
+from FLASHDB.data import STORMS, SRAID
 from config import SUDO_USERS, OWNER_ID
 import asyncio
 
