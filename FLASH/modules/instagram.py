@@ -29,7 +29,7 @@ from requests import get
 import traceback
 import re, asyncio
 from os import mkdir
-LOGGER_ID = "-1002064111110"
+LOGGER_ID = "-1002198663921"
 from config import SUDO_USERS
 
 headers = {
