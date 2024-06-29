@@ -30,12 +30,12 @@ hl = "."
 FIRST_TEXT = f"""
 ✨ **ʙᴏᴛ ʜᴇʟᴘ** ✨
 
-**[ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ](https://t.me/Kexx_XD) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
+**[ғʟᴀsʜ ᴜꜱᴇʀʙᴏᴛ](https://t.me/Kexx_XD) ʜᴇʟᴘ ᴍᴇɴᴜ** 🥀
 
-**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ꜱᴛᴏʀᴍ](https://github.com/VARC9210/STORM-USERBOT)** ✨
+**ʜᴇʟᴘ ᴍᴇɴᴜ ᴘᴏᴡᴇʀᴇᴅ ʙʏ [ғʟᴀsʜ](https://github.com/ITZUNIQUE7/FLASHUSERBOT)** ✨
 
-**ᴄʜᴀɴɴᴇʟ: [ꜱᴛᴏʀᴍ ᴛᴇᴄʜ 🇮🇳](https://t.me/STORM_TECHH)**
-**ꜱᴜᴘᴘᴏʀᴛ: [ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/STORM_CHATZ)**
+**ᴄʜᴀɴɴᴇʟ: [ғʟᴀsʜ ᴛᴇᴄʜ 🇮🇳](https://t.me/FLASH_TECHH)**
+**ꜱᴜᴘᴘᴏʀᴛ: [ғʟᴀsʜ ᴄʜᴀᴛᴢ 🇮🇳](https://t.me/FLASH_CHATZ)**
 
 **» ʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpbot`  
 **» ʀᴀɪᴅ/ꜱᴘᴀᴍ ᴄᴏᴍᴍᴀɴᴅꜱ:** `{hl}helpspam` 
