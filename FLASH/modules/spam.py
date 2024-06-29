@@ -28,7 +28,7 @@ from pyrogram.types import Message
 from pyrogram import filters, Client
 
 from config import SUDO_USERS
-from STORMDB.data import GROUP, PORM
+from FLASHDB.data import GROUP, PORM
 
 
 @Client.on_message(
