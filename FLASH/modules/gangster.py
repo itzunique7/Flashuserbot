@@ -23,6 +23,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from config import SUDO_USERS
+from FLASH.helpers.basic import edit_or_reply, get_text
 import asyncio
 hl = "."
 
