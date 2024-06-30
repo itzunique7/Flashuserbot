@@ -37,6 +37,5 @@ async def wtf(client: Client, message: Message):
     await e.edit("ᴡʜᴀᴛ ᴛʜᴇ")
     await e.edit("ᴡʜᴀᴛ ᴛʜᴇ ғ")
     await e.edit("ᴡʜᴀᴛ ᴛʜᴇ ғ ʙʀᴀʜ")
-    await e.edit("ᴡʜᴀᴛ ᴛʜᴇ ғ ʙʀᴀʜ")
-img='https://graph.org/file/596ec6608e51a35e81e50.jpg'
-img.show()
+    await e.edit("ᴡʜᴀᴛ ᴛʜᴇ ғ ʙʀᴀʜ (https://graph.org/file/596ec6608e51a35e81e50.jpg)",
+                link_preview=True)
