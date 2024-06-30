@@ -19,9 +19,11 @@
 #LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 #OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 #SOFTWARE.
+
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from config import SUDO_USERS
+from FLASH.helpers.basic import edit_or_reply, get_text
 import asyncio
 hl = "."
 
