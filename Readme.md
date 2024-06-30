@@ -91,4 +91,4 @@
 ! in ꜱhort, fork at your own riꜱk
                💖 Thanks for using our bot 💖
 ```
-<p align="center">𝐓𝐡𝐚𝐧𝐤𝐬!! </p>
+<p align="center"><B>Thanks For Using Our Bot💖💖 </B></p>
