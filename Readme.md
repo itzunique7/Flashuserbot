@@ -57,7 +57,7 @@
 ## 𝐂𝐑𝐄𝐃𝐈𝐓-
 
 <p align="center">  
-<a href="https://githu.com/varc9210/storm-userbot">
+<a href="https://github.com/varc9210/storm-userbot">
 <img src="https://img.shields.io/badge/STORM-black?style=for-the-badge&logo=github" alt="Github Badge"/>
 </a>
 <br>
