@@ -1,34 +1,3 @@
-Skip to content
-Navigation Menu
-Team-Japanese
-/
-Japanese-X-Userbot
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-BreadcrumbsJapanese-X-Userbot/X/modules/user
-/youtubedl.py
-Go to file
-t
-Latest commit
-nobitaaaxd
-nobitaaaxd
-Update youtubedl.py fix
-1179387
- · 
-2 months ago
-History
-201 lines (181 loc) · 6.69 KB
-File metadata and controls
-
-Code
-
-Blame
 #MIT License
 
 #Copyright (c) 2024 Japanese-X-Userbot
@@ -76,11 +45,10 @@ from pyrogram.types import Message
 from youtubesearchpython import SearchVideos
 from yt_dlp import YoutubeDL
 
-from config import CMD_HANDLER
 from FLASH.helpers.basic import edit_or_reply
 from config import SUDO_USERS
 from .help import *
-
+hl = "."
 
 def get_text(message: Message) -> [None, str]:
     """Extract Text From Commands"""
