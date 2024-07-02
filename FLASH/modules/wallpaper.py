@@ -1,6 +1,6 @@
 #MIT License
 
-#Copyright (c) 2024 ᴋᴜɴᴀʟ [AFK]
+#Copyright (c) 2024 DHIRAJ [AFK]
 
 #Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -27,27 +27,38 @@ from config import SUDO_USERS
 hl = "."
 
 @Client.on_message(
-    filters.command(["waifu"], ".") & (filters.me | filters.user(SUDO_USERS))
+    filters.command(["wallpaper"], ".") & (filters.me | filters.user(SUDO_USERS))
 )
-async def waifu(client, message):
+async def wallpaper(client, message):
     args = message.text.split(" ")[1:]
-    wdata = [
-        "https://graph.org/file/1e4e2296c7edcb2ae96dd.jpg",
-        "https://graph.org/file/9289d8e8a3981b91822b4.jpg",
-        "https://graph.org/file/7e64cecf50e9165746a2b.jpg",
-        "https://graph.org/file/ece7b21d443fa7051c0c4.jpg",
-        "https://graph.org/file/29c158753f4743851bec5.jpg",
-        "https://graph.org/file/e934043c60cff51ff705e.jpg",
-        "https://graph.org/file/82d456479bbb104cf0129.jpg",
-        "https://graph.org/file/66a29a591af76f770d4d3.jpg",
-        "https://graph.org/file/94d7d78f8c82b2f529c74.jpg",
-        "https://graph.org/file/117a00ef77ec5474dbff9.jpg",
-        "https://graph.org/file/1d1cd38d07320446682a9.jpg",
-        "https://graph.org/file/f9d43c3953dfe6a5a44d6.jpg",
-        "https://graph.org/file/df0effb74bb0a86419235.jpg",
-        "https://graph.org/file/c3c58ca40564fe4513471.jpg",
-        "https://graph.org/file/07173cd0eb098769fd8cb.jpg",
-        "https://graph.org/file/cc3e6ca9fa4bccfa99a32.jpg",
+    walldata = [
+        "https://graph.org/file/c7059cd48bc3d88e6305c.jpg",
+        "https://graph.org/file/6afb4abad7a5dfbf8457a.jpg",
+        "https://graph.org/file/e1e1d4162b57a5723633d.jpg",
+        "https://graph.org/file/edfda1673d62374cea8d0.jpg",
+        "https://graph.org/file/0ce33c286c8051c831c04.jpg",
+        "https://graph.org/file/23e2747fbcd1ca70886f4.jpg",
+        "https://graph.org/file/667ebd334de898f345693.jpg",
+        "https://graph.org/file/f024b680143b9977031b5.jpg",
+        "https://graph.org/file/7d194e5f8c6ff345ce845.jpg",
+        "https://graph.org/file/e036aa8337c39e6a09f59.jpg",
+        "https://graph.org/file/f66864b6c9920dca16e3c.jpg",
+        "https://graph.org/file/b62c6c4fc5fe21ee9a716.jpg",
+        "https://graph.org/file/d75fdd510c8e4887bbedd.jpg",
+        "https://graph.org/file/c3404d06268339712dfba.jpg",
+        "https://graph.org/file/995e6ced2c3f6217a2e6f.jpg",
+        "https://graph.org/file/18cbafd2f1f6c4ee3e8a8.jpg",
+        "https://graph.org/file/6fb9212fe0d8dbb66f93d.jpg",
+        "https://graph.org/file/c166f6bd8ecdd6be4e6df.jpg",
+        "https://graph.org/file/683a4b8231c92d053d05f.jpg",
+        "https://graph.org/file/cf7f97c0eda1728a4e1db.jpg",
+        "https://graph.org/file/8c5a7d726b68a59160cc6.jpg",
+        "https://graph.org/file/e28632aeddddf6daa5570.jpg",
+        "https://graph.org/file/e5b7bd13f88127473c498.jpg",
+        "https://graph.org/file/20f9420d6607c614f544e.jpg",
+        "https://graph.org/file/7f18ea5b3dda556b46ca0.jpg",
+        "https://graph.org/file/8a8919af9e7d24e4001b6.jpg",
+        "https://graph.org/file/7d054f01b6f116cd1f45f.jpg",
     ]
-    waifu_url = random.choice(wdata)
-    await message.reply_photo(waifu_url)
+    wallpaper_url = random.choice(walldata)
+    await message.reply_photo(wallpaper_url)
