@@ -59,6 +59,9 @@ async def wallpaper(client, message):
         "https://graph.org/file/7f18ea5b3dda556b46ca0.jpg",
         "https://graph.org/file/8a8919af9e7d24e4001b6.jpg",
         "https://graph.org/file/7d054f01b6f116cd1f45f.jpg",
+        "https://telegra.ph/file/e75cdd5df0d45b2f446ef.jpg",
+        "https://telegra.ph/file/6806870dba159a1e8a5f0.jpg",
+        "https://telegra.ph/file/293eee535310d00c5ff61.jpg",
     ]
     wallpaper_url = random.choice(walldata)
     await message.reply_photo(wallpaper_url)
