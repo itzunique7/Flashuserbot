@@ -45,7 +45,7 @@ from pyrogram.types import Message
 from youtubesearchpython import SearchVideos
 from yt_dlp import YoutubeDL
 
-from FLASH.helpers.basic import edit_or_reply
+from FLASH.helper.basic import edit_or_reply
 from config import SUDO_USERS
 from .help import *
 hl = "."
